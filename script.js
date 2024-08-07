@@ -3,7 +3,7 @@ const words = ["hello", "world", "javascript", "coding", "challenge", "typing", 
 
 // 게임 상태 변수
 let score = 0;
-let time = 10; // 제한 시간 10초
+let time = 20; // 제한 시간 20초
 let isPlaying = false;
 let interval;
 let currentWord;
