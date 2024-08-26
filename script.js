@@ -1,5 +1,5 @@
 // 단어 리스트
-const words = ["hello", "world", "javascript", "coding", "challenge", "typing", "master", "keyboard", "programming", "developer"];
+const words = ["hello", "world", "javascript", "coding", "challenge", "typing", "master", "keyboard", "programming", "developer", "apple", "banana", "computer", "desk", "elephant", "friend", "garden", "house", "internet", "jacket", "keyboard", "library", "mountain", "notebook", "orange", "pencil", "quality", "rainbow", "school", "travel", "umbrella", "vacation", "window", "xylophone", "yellow", "zebra", "adventure", "bakery", "chocolate", "dentist", "exercise", "family", "guitar", "hospital", "island", "jungle", "kitchen", "language", "medicine", "night", "ocean", "police", "quiet", "rocket", "sunflower", "teacher", "universe", "village", "waterfall", "youth"];
 
 // 게임 상태 변수
 let score = 0;
